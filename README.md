@@ -1,4 +1,4 @@
-lista1_apc2
+apc2_exercicios
 ===========
 
-Lista 1 da disciplina Algoritmo e Programação para Computadores 2
+  Exercicios feitos para a disciplina de APC2 - PUC Campinas - 2 semestre
